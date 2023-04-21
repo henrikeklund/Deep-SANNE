@@ -9,6 +9,9 @@ and estimations of small scale dynamics
 
 https://ui.adsabs.harvard.edu/abs/2023A%26A...669A.106E/abstract
 
+
+contact: henrik.eklund@astro.su.se
+
 ----
 
 The Deep Solar ALMA Neural Network Estimator deconvolves science-ready data to enhance contrasts and reveal the small-scale freatures. 
