@@ -3,7 +3,7 @@
 
 Publication for reference to Deep-SANNE:
 
-$\textbf{Eklund, H., 2022, A&A, 669E, 106, Deep Solar ALMA Neural Network Estimator for image refinement and estimations of small scale dynamics}$
+$\textbf{Eklund, H., 2022, Astronomy and Astrophysics, 669E, 106, Deep Solar ALMA Neural Network Estimator for image refinement and estimations of small scale dynamics}$
 
 https://ui.adsabs.harvard.edu/abs/2023A%26A...669A.106E/abstract
 
