@@ -3,7 +3,7 @@
 
 Publication for reference to Deep-SANNE:
 
-Eklund, H., 2022, Astronomy and Astrophysics, 669E, 106, 
+Eklund, H., 2023, Astronomy and Astrophysics, 669E, 106, 
 Deep Solar ALMA Neural Network Estimator for image refinement 
 and estimations of small scale dynamics
 
