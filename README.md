@@ -10,7 +10,7 @@ and estimations of small scale dynamics
 https://ui.adsabs.harvard.edu/abs/2023A%26A...669A.106E/abstract
 
 
-contact: henrik.eklund@astro.su.se
+contact: henrik.eklund@esa.int
 
 ----
 
